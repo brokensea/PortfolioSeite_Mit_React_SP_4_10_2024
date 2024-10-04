@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    align-items: center;
+}
+
+.header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ccd6f6;
+}
+
+.header nav {
+    display: flex;
+    gap: 20px;
+}
+
+.header nav a {
+    font-size: 18px;
+    color: #8892b0;
+}
+
+.header nav a:hover {
+    color: #64ffda;
+}
