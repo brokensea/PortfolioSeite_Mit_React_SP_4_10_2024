@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import '../styles/Contact.css';
-
-=======
->>>>>>> 460db07 (Router and Tailwind css basic)
 function Contact() {
     return (
         <section className="contact">

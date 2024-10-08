@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-import React from 'react';
-import Project from './Project';
-import '../styles/Projects.css';
-=======
-import Project from './Project';
-
->>>>>>> 460db07 (Router and Tailwind css basic)
-
+import Project from './Project'
 function Projects() {
     return (
         <section className="projects">

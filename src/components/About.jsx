@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import '../styles/About.css';
-
-=======
->>>>>>> 460db07 (Router and Tailwind css basic)
 function About() {
     return (
         <section id="about" className="about">
