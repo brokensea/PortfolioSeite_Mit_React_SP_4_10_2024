@@ -1,15 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./src/**/*.{js,jsx,ts,tsx}", // Tailwind 要监视的文件
   ],
   theme: {
-    extend: {
-      colors: {
-        primary: '#ff6347',
-        secondary: '#4caf50',
-      },
-    },
-    plugins: [],
-  }
+    extend: {},
+  },
+  plugins: [],
+
 }
+

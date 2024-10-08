@@ -1,7 +1,4 @@
-import React from 'react';
-import Project from './Project';
-import '../styles/Projects.css';
-
+import Project from './Project'
 function Projects() {
     return (
         <section className="projects">

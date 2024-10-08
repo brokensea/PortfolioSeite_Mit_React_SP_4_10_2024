@@ -1,6 +1,3 @@
-import React from 'react';
-import '../styles/Project.css';
-
 function Project({ title, description }) {
     return (
         <div className="project">
