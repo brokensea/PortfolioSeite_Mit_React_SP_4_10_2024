@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 import React from 'react';
 import '../styles/Project.css';
+=======
+
+>>>>>>> 460db07 (Router and Tailwind css basic)
 
 function Project({ title, description }) {
     return (
